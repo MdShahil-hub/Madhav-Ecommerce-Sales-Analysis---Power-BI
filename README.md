@@ -3,52 +3,47 @@
 
 ## 📌 Project Overview
 
-An interactive Ecommerce Sales Dashboard built using Microsoft Power BI to analyze sales performance, profitability, customer purchasing patterns, product categories, and payment preferences.
+An interactive Ecommerce Sales Dashboard built using Microsoft Power BI to analyze sales performance, product categories, customer purchasing patterns, payment preferences, and profitability.
 
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
-- DAX Measures
-- Data Cleaning & Transformation
-- Data Visualization & Dashboard Design
+- Data Analysis & Visualization
+- Interactive Dashboard Design
 
 ## 📊 Key Performance Indicators (KPIs)
 
-- **Total Amount:** Total sales amount
-- **Total Quantity:** Total quantity of products sold
-- **Average Order Value (AOV):** Average value per order
-- **Total Profit:** Overall profit generated
+- **Total Amount**
+- **Total Quantity**
+- **Average Order Value**
+- **Total Profit**
 
 ## 📈 Dashboard Features
 
 - State-wise sales analysis
 - Category-wise quantity distribution
-- Monthly profit and loss analysis
+- Monthly profit analysis
 - Customer-wise sales performance
 - Payment mode distribution
 - Sub-category-wise profit analysis
 - Quarterly sales filtering
-- State-level interactive filtering
-
-## 🧹 Data Cleaning
-
-- Performed basic date column cleaning and transformation using Power Query in Power BI.
+- State-wise interactive filtering
 
 ## 🔍 Key Insights
 
 - Analyzed sales performance across different states.
-- Compared product categories based on quantity sold.
-- Examined monthly profit trends to identify profitable and loss-making periods.
-- Identified top customers based on sales amount.
-- Analyzed customer payment preferences.
+- Compared quantities sold across product categories.
+- Examined monthly profit trends.
+- Analyzed sales contribution by individual customers.
+- Explored customer payment mode preferences.
 - Compared profitability across product sub-categories.
 
-*Note: Insights are based on the dashboard analysis and may change when filters are applied.*
+*Note: Insights are based on the dashboard and may change when filters are applied.*
 
 ## 🖼️ Dashboard Preview
 
-![Madhav Ecommerce Sales Dashboard](Dashboard.png)
+![Madhav Ecommerce Sales Dashboard](Dashboard.pdf)
 
 ## 🚀 Project Files
 
@@ -57,7 +52,7 @@ An interactive Ecommerce Sales Dashboard built using Microsoft Power BI to analy
 
 ## 🎯 Project Objective
 
-To demonstrate practical skills in Power BI dashboard development, basic data cleaning, KPI reporting, interactive data visualization, and ecommerce sales analysis.
+To demonstrate practical skills in Power BI dashboard development, basic date cleaning, KPI reporting, data visualization, and ecommerce sales analysis.
 
 ## 👤 Author
 
